@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OEIS App</string>
+    <string name="get_sequence">Get Sequence</string>
+</resources>
